@@ -1,4 +1,4 @@
-### Hi there 👋, Ishan Hansaka
+### Ishan Hansaka
 #### Development And Design
 ![Development And Design](https://github.com/IshanHansaka/Ishanhansaka.github.io/blob/main/images/logo.png?raw=true)
 
