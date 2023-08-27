@@ -16,7 +16,3 @@ Skills: PYTHON / C / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanHansaka)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanHansaka&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IshanHansaka)  
-
-![Profile views](https://gpvc.arturio.dev/IshanHansaka)  
