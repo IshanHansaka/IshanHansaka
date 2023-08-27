@@ -1,4 +1,5 @@
-### Hi there 👋, Ishan Hansaka
+### Hi there 👋, 
+Ishan Hansaka Silva
 #### Development And Design
 ![Development And Design](https://github.com/IshanHansaka/IshanHansaka/blob/main/Untitled-1.png?raw=true)
 
