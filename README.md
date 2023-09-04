@@ -2,9 +2,7 @@
 
 ### Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
-I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
-Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
+I'm IT undergraduate at University of Moratuwa.
 
 ### My stats
 
