@@ -36,7 +36,7 @@ I'm IT undergraduate at University of Moratuwa.
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/twitter.png" height="20"/>&nbsp; [Twitter](https://twitter.com/PraneethPeiris)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
 
-
+<!---
 ### Wanna get something done?
 
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
@@ -44,7 +44,7 @@ I'm IT undergraduate at University of Moratuwa.
 
 ### Wanna learn from me?
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/praneeth-peiris/)
-<!---
+
 ### Wanna sponsor me?
 
 <a href="https://www.buymeacoffee.com/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
