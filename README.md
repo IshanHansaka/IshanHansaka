@@ -37,16 +37,9 @@ I'm IT undergraduate at University of Moratuwa.
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
 
 <!---
-### Wanna get something done?
-
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
-
-
-### Wanna learn from me?
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/praneeth-peiris/)
 
 ### Wanna sponsor me?
 
-<a href="https://www.buymeacoffee.com/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
-<a href="https://www.patreon.com/bePatron?u=39152607" target="_blank"><img src="https://cloakandmeeple.files.wordpress.com/2017/06/become_a_patron_button3x.png?w=610" alt="Buy Me A Coffee" height="50px" ></a> 
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
+<a href="https://www.patreon.com/" target="_blank"><img src="https://cloakandmeeple.files.wordpress.com/2017/06/become_a_patron_button3x.png?w=610" alt="Buy Me A Coffee" height="50px" ></a> 
 -->
