@@ -1,32 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ishan Hansaka Silva</h1>
-<h3 align="center">Undergraduate at University of Moratuwa</h3>
+## Well, hello there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanhansakasilva&label=Profile%20views&color=0e75b6&style=flat" alt="ishanhansakasilva" /> </p>
+### Who am I?
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanhansakasilva" alt="ishanhansakasilva" /></a> </p>
+I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
+I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
+Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
 
-<p align="left"> <a href="https://twitter.com/ishanhansaka" target="blank"><img src="https://img.shields.io/twitter/follow/ishanhansaka?logo=twitter&style=for-the-badge" alt="ishanhansaka" /></a> </p>
+### My stats
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomezgrave&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ishanhansaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishanhansaka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishanhansakasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishanhansakasilva" height="30" width="40" /></a>
-<a href="https://fb.com/ishan hansaka silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishan hansaka silva" height="30" width="40" /></a>
-<a href="https://instagram.com/ish.hanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ish.hanz" height="30" width="40" /></a>
-<a href="https://medium.com/@ishanhansaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishanhansaka" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ishanhansaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishanhansaka" height="30" width="40" /></a>
-</p>
+### Top Repositories
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+* [GCP Serverless Orchestrator](https://github.com/gnomezgrave/gcp-serverless-orchestrator)
+* [AWS Image Service](https://github.com/gnomezgrave/aws-s3-image-service)
+* [Pull Request Reports](https://github.com/gnomezgrave/pull-request-reports)
+* [Copy DynamoDB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
+* [Qt Auto Translator](https://github.com/gnomezgrave/qt-auto-translator)
+* [Copy Dynamo DB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
+* [A-Star Algorithm](https://github.com/gnomezgrave/A-Star)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanhansakasilva&show_icons=true&locale=en&layout=compact" alt="ishanhansakasilva" /></p>
+### Wanna read my articles?
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanhansakasilva&show_icons=true&locale=en" alt="ishanhansakasilva" /></p>
+* <img src="https://praneeth.gnomezgrave.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://praneeth.gnomezgrave.com/)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://gnomezgrave.com/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanhansakasilva&" alt="ishanhansakasilva" /></p>
+### Wanna connect with me?
 
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/g2.png" height="20"/>&nbsp; [Tech Reviews](https://www.youtube.com/channel/UCB9dJjRyp6gJXItrLPaZsOA)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/GamezGrave.png" height="20"/>&nbsp; [Gaming](https://www.youtube.com/channel/UCqadMDdlCaxzJN2qpj4UwAQ)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/gnome-with-a-drone.png" height="20"/>&nbsp; [Drone](https://www.youtube.com/channel/UCte9ZuMNwDFLHugTQkU--0g)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/1538258/praneeth-peiris)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/github.png" height="20"/>&nbsp; [GitHub](https://github.com/gnomezgrave)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/praneethpeiris/)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/twitter.png" height="20"/>&nbsp; [Twitter](https://twitter.com/PraneethPeiris)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
+
+
+### Wanna get something done?
+
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
+
+
+### Wanna learn from me?
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/praneeth-peiris/)
+
+### Wanna sponsor me?
+
+<a href="https://www.buymeacoffee.com/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
+<a href="https://www.patreon.com/bePatron?u=39152607" target="_blank"><img src="https://cloakandmeeple.files.wordpress.com/2017/06/become_a_patron_button3x.png?w=610" alt="Buy Me A Coffee" height="50px" ></a>
