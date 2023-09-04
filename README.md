@@ -22,7 +22,7 @@ I'm IT undergraduate at University of Moratuwa.
 ### Wanna read my articles?
 
 * <img src="https://praneeth.gnomezgrave.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://praneeth.gnomezgrave.com/)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://gnomezgrave.com/)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://medium.com/@ishanhansakasilva)
 
 ### Wanna connect with me?
 
