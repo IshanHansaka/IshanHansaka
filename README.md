@@ -8,7 +8,7 @@ I'm IT undergraduate at University of Moratuwa.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=IshanHansaka&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanHansaka&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
-
+<!---
 ### Top Repositories
 
 * [GCP Serverless Orchestrator](https://github.com/gnomezgrave/gcp-serverless-orchestrator)
@@ -18,7 +18,7 @@ I'm IT undergraduate at University of Moratuwa.
 * [Qt Auto Translator](https://github.com/gnomezgrave/qt-auto-translator)
 * [Copy Dynamo DB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
 * [A-Star Algorithm](https://github.com/gnomezgrave/A-Star)
-
+-->
 ### Wanna read my articles?
 
 * &nbsp; [Portfolio](https://ishanhansaka.github.io/)
