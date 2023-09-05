@@ -23,7 +23,7 @@ I'm IT undergraduate at University of Moratuwa.
 ### Wanna connect with me?
 
 * &nbsp; [LinkedIn](https://www.linkedin.com/in/ishanhansakasilva)
-* &nbsp; [Stack Overflow]()
+* &nbsp; [Stack Overflow](https://stackoverflow.com/users/22502508/ishan-hansaka-silva)
 * &nbsp; [GitHub](https://github.com/IshanHansaka)
 * &nbsp; [Instagram](https://www.instagram.com/_is.hanz_/)
 * &nbsp; [Twitter](https://twitter.com/Ishanhansaka_)
