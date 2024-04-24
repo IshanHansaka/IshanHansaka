@@ -12,7 +12,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
   
--  🌱 I’m currently learning Microcontroller and C
+-  🌱 I’m currently learning Web Technologies and C++
   
 - 📫 How to reach me **Ishanhansakasilva@gmail.com**
   
