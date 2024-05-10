@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Ishan Hansaka Silva <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height= 50px></h1>
+<h1 align="center">Hello there, I'm Ishan Hansaka Silva <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height= 35px></h1>
 
 <!--- profile veiws -->
 <p align="center">
