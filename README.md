@@ -25,7 +25,6 @@
 
 ---
 <!--- stats -->
-<h3 align="center">My Statistics:</h3>
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
@@ -49,7 +48,7 @@
 <a href="https://stackoverflow.com/users/22502508/ishan-hansaka-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ishan-hansaka-silva" height="50" width="50" /></a>
 <a href="https://twitter.com/Ishanhansaka_" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Twitter.svg" alt="Ishanhansaka_" height="50" width="50" /></a>
 <a href="https://web.facebook.com/IshanHansakaSilva" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/IshanHansaka/icons/fb.svg" alt="Ishan Hansaka Silva" height="50" width="50" /></a>
-<a href="https://www.instagram.com/_is.hanz_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_is.hanz_" height="50" width="50" /></a>
+<a href="https://www.instagram.com/_is.hanz_/" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Instagram.svg" alt="_is.hanz_" height="50" width="50" /></a>
 <a href="https://medium.com/@ishanhansakasilva" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/IshanHansaka/icons/medium-.svg" alt="@ishanhansakasilva" height="50" width="50" /></a>
 </p>
 
@@ -69,6 +68,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/></a>
   
+<!---
 ---
 
 <h3 align="center">Support:</h3>
+
+-->
