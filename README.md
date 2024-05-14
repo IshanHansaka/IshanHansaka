@@ -6,13 +6,13 @@
 </p>
 
 <!--- About -->
-<table align="center" border="none">
+<table align="center">
   <tr>
     <td width="50%" align="left">
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
   
--  🌱 I’m currently learning Web Technologies and C++
+-  🌱 I’m currently learning MERN and C++
   
 - 📫 How to reach me **Ishanhansakasilva@gmail.com**
   
@@ -24,20 +24,17 @@
 </table>
 
 ---
+
 <!--- stats -->
 <table align="center">
   <tr border="none">
-    <td width="50%" align="center" rowspan = 2>
-      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IshanHansaka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-    </td>
     <td width="50%" align="center">
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IshanHansaka&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IshanHansaka&theme=dark&hide_border=false" /> 
     </td>
-  </tr>  
-  
-  <tr>
     <td width="50%" align="center">
-      <img  align="center"  src="https://streak-stats.demolab.com/?user=IshanHansaka&theme=dark" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IshanHansaka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </td>
   </tr>
 </table>
@@ -58,20 +55,26 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/></a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/></a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/></a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CPP.svg" alt="c++" width="50" height="50"/></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg" alt="reactjs" width="50" height="50"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="vuejs" width="50" height="50"/></a>
+  <a href="https://nodejs.org/ent" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="50" height="50"/></a>
+  <a href="https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-lk_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624368&adgroup=115749715143&cq_cmp=12212624368&gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeAe03tJu6YgRFHo7Jwm3nk-8ZeJ_Ew7SZnV-5S3-NiZmYPGLEiC3nBoCDpoQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/></a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/></a>
   
 <!---
----
+---https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg
 
 <h3 align="center">Support:</h3>
 
