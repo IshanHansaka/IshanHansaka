@@ -64,6 +64,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/></a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/></a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CPP.svg" alt="c++" width="50" height="50"/></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="50" height="50"/></a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg" alt="reactjs" width="50" height="50"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="vuejs" width="50" height="50"/></a>
   <a href="https://nodejs.org/ent" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/></a>
