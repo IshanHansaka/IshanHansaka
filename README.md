@@ -12,7 +12,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
   
--  🌱 I’m currently learning MERN and C++
+-  🌱 I’m currently learning MERN stack and C++
   
 - 📫 How to reach me **Ishanhansakasilva@gmail.com**
   
