@@ -78,8 +78,6 @@
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/></a>
   
 <!---
----https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg
-
 <h3 align="center">Support:</h3>
 
 -->
