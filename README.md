@@ -66,7 +66,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CPP.svg" alt="c++" width="50" height="50"/></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="50" height="50"/></a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg" alt="reactjs" width="50" height="50"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="50" height="50"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="vuejs" width="50" height="50"/></a>
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/NuxtJS-Dark.svg" alt="nuxt" width="50" height="50"/></a>
   <a href="https://nodejs.org/ent" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-lk_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624368&adgroup=115749715143&cq_cmp=12212624368&gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeAe03tJu6YgRFHo7Jwm3nk-8ZeJ_Ew7SZnV-5S3-NiZmYPGLEiC3nBoCDpoQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/></a>
@@ -79,5 +81,5 @@
   
 <!---
 <h3 align="center">Support:</h3>
-
+https://github.com/IshanHansaka/skill-icons/blob/main/icons/NuxtJS-Dark.svg
 -->
