@@ -12,8 +12,8 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
   
--  🌱 I’m currently learning MERN stack and C++
-  
+-  🌱 I’m currently learning new technologies
+
 - 📫 How to reach me **Ishanhansakasilva@gmail.com**
   
     </td>
