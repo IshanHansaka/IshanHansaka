@@ -77,7 +77,6 @@
   <a href="https://docs.insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="50" height="50"/></a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50" height="50"/></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="50" height="50"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/></a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/></a>
