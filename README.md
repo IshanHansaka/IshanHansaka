@@ -73,6 +73,7 @@
   <a href="https://nodejs.org/ent" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/></a>
   <a href="https://docs.insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="50" height="50"/></a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50" height="50"/></a>
