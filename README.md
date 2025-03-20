@@ -59,7 +59,8 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/></a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typecript" width="50" height="50"/></a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/></a>
   <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="50" height="50"/></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/></a> 
